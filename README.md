@@ -80,15 +80,15 @@ The project's strength lies in its integration of deep learning with established
 
 * **The Myers-Briggs Type Indicator (MBTI)**: Used as a heuristic to model varied cognitive learning styles. By simulating an MBTI type for each student, the model can identify correlations between these cognitive preferences and online learning behaviors.
   
-  ![MBTI Framework](./images/mbti_framework.png)
+<img src="Images/MBTI.png">
   
 * **The VARK Model**: This model of learning modalities (Visual, Aural, Read/Write, Kinesthetic) is used to guide the development of a multi-modal feedback system rather than rigidly categorizing students.
 
-  ![VARK Model](./images/vark_model.png)
+<img src="Images/VARK.png">
 
 * **Bloom's Taxonomy**: By assigning each learning module to a cognitive level from Bloom's Taxonomy (e.g., Remembering, Applying, Analyzing), the system can pinpoint not just *that* a student is struggling, but at what specific cognitive level the difficulty occurs.
 
-  ![Bloom's Taxonomy](./images/blooms_taxonomy.png)
+<img src="Images/Bloom.png">
 
 ---
 
