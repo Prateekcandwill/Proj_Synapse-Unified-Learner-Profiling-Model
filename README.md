@@ -128,6 +128,14 @@ SHAP analysis revealed that performance metrics (`assignment_score`, `quiz_score
 
 ---
 
+## Explanation
+
+<video width="400" controls>
+  <source src="Proj_Synapse__AI_That_Understands_How_You_Learn.mp4" type="video/mp4">
+</video>
+
+---
+
 ## 🚀 Installation & Usage
 
 1.  **Clone the repository:**
