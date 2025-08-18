@@ -176,7 +176,7 @@ For any queries, please feel free to contact: 24081244@scale.iitrpr.ac.in ,prate
 
 [![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://drive.google.com/file/d/1Xqdfqc9SG3sEnCpEp3ez6GsXRQlgS0Xc/view?usp=sharing)
 [![video](https://img.shields.io/badge/Results-Video-blue)](https://drive.google.com/file/d/1uUt_0LSEbxzaBEwM2E1CDVPXhevw-DTk/view?usp=sharing) 
-[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](Yet to Share) 
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1cgvdIBzbx2jA_posxeV8YwZBmkiYUp9X/edit?usp=sharing&ouid=118014055533469663453&rtpof=true&sd=true)
 
 
 
