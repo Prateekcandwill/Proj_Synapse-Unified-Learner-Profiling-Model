@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="Images/iitrprlogo.jpg" alt="IIT Ropar Logo" width="150"/>
-</p>
-
 <h1 align="center">Proj_Synapse: An Integrated Adaptive Learner Profiling and Personalized Feedback Deep Learning Framework</h1>
+
+<p align="center">
+  <img src="Images/Banner Image For Project.png" alt="IIT Ropar Logo" width="1200"/>
+</p>
 
 <p align="center">
   A Major Project submitted to the Indian Institute of Technology Ropar in partial fulfillment of the requirements for the degree of <strong>Minor in AI</strong>.
@@ -158,3 +158,17 @@ The project has a clear roadmap for future development:
 * **Short-Term (1-6 Months)**: Develop an interactive educator dashboard and collect real-world data for learner profiles.
 * **Mid-Term (6-18 Months)**: Integrate the system into a live Learning Management System (LMS) and use Natural Language Generation (NLG) for more sophisticated feedback.
 * **Long-Term (18+ Months)**: Research the use of Reinforcement Learning (RL) to optimize feedback strategies and explore Federated Learning to enhance data privacy.
+
+## Contacts
+
+PRATEEK KUMAR
+For any queries, please feel free to contact: 24081244@scale.iitrpr.ac.in ,prateek.kumar17@s.amity.edu or kumarprateek1866@gmail.com
+
+## Quick Links:
+
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://drive.google.com/file/d/1Xqdfqc9SG3sEnCpEp3ez6GsXRQlgS0Xc/view?usp=sharing)
+[![video](https://img.shields.io/badge/Results-Video-blue)](Yet to share) 
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](Yet to Share) 
+
+
+
